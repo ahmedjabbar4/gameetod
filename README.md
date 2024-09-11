@@ -74,7 +74,7 @@ Here are some parameters that can be used in bot.py or the bot's main script
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/akasakaid/gameetod.git
+   git clone https://github.com/ahmedjabbar4/gameetod.git
    ```
 
 3. goto gameetod directory
